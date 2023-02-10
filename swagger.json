@@ -1,0 +1,19 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "initial_project_prisma",
+      "description": "Simple API of initial_project_prisma system",
+      "version": "1.0"
+    },
+    "host": "localhost:3333",
+    "basePath": "/",
+    "tags": [
+      {
+        "name": "EntityREST",
+        "description": "description"
+      }
+    ],
+    "paths": {
+      
+    }
+}
